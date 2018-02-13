@@ -1,0 +1,65 @@
+body {
+  font-family: 'Italianno', cursive;
+  color: white;
+}
+#container {
+  width: 700px;
+  height: 600px;
+  background: #2e3d49;
+  padding: 10px 10px;
+  border: 2px;
+  border-radius: 25px;
+}
+#container h1 {
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+#container div {
+  display: inline-block;
+  vertical-align: middle;
+}
+#image {
+  background: #c4c1ba;
+  width: 300px;
+  padding: 10px 10px;
+  border-radius: 15px;
+}
+#image p {
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+#image img {
+  border-radius: 15px;
+}
+#introduction {
+  background: #c4c1ba;
+  width: 345px;
+  padding: 10px 10px;
+  border-radius: 15px;
+  margin-left: 10px;
+}
+.Animal_name {
+  text-align: center;
+  font-size: 50px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-weight: bold;
+}
+.list_styles {
+  font-size: 30px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-decoration: underline;
+  font-weight: bold;
+}
+.contents {
+  font-size: 20px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  display: list-item;
+  list-style-type: disc;
+  list-style-position: inside;
+}
